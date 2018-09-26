@@ -31,7 +31,7 @@ defmodule PgkTest.MixProject do
     [
       maintainers: ["ohr486"],
       licenses: ["MIT"],
-      links: %{"GitHub" => "https://github.com/elixir-ecto/postgrex"}
+      links: %{"GitHub" => "https://github.com/ohr486/pkg_test"}
     ]
   end
 end
